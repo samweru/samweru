@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @samweru former lost handle @samweru-zz
 - 👀 I’m interested in PHP, Python, Javascript
-- 🌱 I’m currently learning GoLang
 - 💞️ I’m looking to collaborate on Bookkeeping projects
 - 📫 How to reach me https://samweru.github.io/#contacts
 
